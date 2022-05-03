@@ -1,6 +1,5 @@
 from PyQt6.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout
 from PyQt6.QtWidgets import QLabel, QPushButton, QLineEdit, QComboBox
-from bs4 import BeautifulSoup
 import json
 import requests
 
